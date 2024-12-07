@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2d8b0d4-b8cd-4a86-8f8e-d6ed544b7a9f" name="Changes" comment="COMP 3095 - Second Push" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/ApprovalService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/BookingService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/EventService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/RoomService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/UserService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/api-gateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/product-service">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/product-service">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/ApprovalService">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lapointek/COMP3095-GroupAssignment1.git&quot;,
+    &quot;accountId&quot;: &quot;a96211fe-765b-4fe7-b3d2-c626dfc321dc&quot;
+  }
+}</component>
+  <component name="KotlinScriptingSettings">
+    <scriptDefinition className="org.jetbrains.kotlin.scripting.resolve.KotlinScriptDefinitionFromAnnotatedTemplate" definitionName="KotlinSettingsScript">
+      <order>2147483647</order>
+      <autoReloadConfigurations>true</autoReloadConfigurations>
+    </scriptDefinition>
+    <scriptDefinition className="org.jetbrains.kotlin.scripting.resolve.KotlinScriptDefinitionFromAnnotatedTemplate" definitionName="KotlinBuildScript">
+      <order>2147483647</order>
+      <autoReloadConfigurations>true</autoReloadConfigurations>
+    </scriptDefinition>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mBOM0mEyOJUOfUFczM0cuzeUfD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Docker.docker-compose.yml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Gradle.ApprovalServiceApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build ApprovalService.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build BookingService.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build COMP3095-GroupAssignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build EventService.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build GBC_EventBooking-Group3.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build RoomService.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build UserService.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build api-gateway.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build microservice-parent - 2.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build microservice-parent.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build product-service.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Load Gradle Dependencies.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ProductServiceApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EventServiceImplTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EventServiceImplTest.testFacultyUserCanCreateEventWithAnySize.executor&quot;: &quot;Debug&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ApiGatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ApprovalServiceApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.BookingServiceApplication (2).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.MicroserviceParentApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ProductServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.RoomServiceApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.RoomServiceApplication (2).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.UserServiceApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;22&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hwagn/COMP3095_week14_code/parent-microservice-week14/parent-microservice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.2201722&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.40916273&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.Kotlin.scripting&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.roomservice" />
+      <recent name="com.example.roomservice.repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jokerjgbc2\MyProjects\java\TEMP\COMP3095\GBC_EventBooking-Group3\GBC_EventBooking-Group3\api-gateway\src\main\resources" />
+      <recent name="C:\Users\luils\Java\GBC_EventBooking-Group3\RoomService\src\main\resources" />
+      <recent name="C:\Users\jokerjgbc2\MyProjects\java\TEMP\COMP3095\thursday\microservice-parent\product-service\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jokerjgbc2\MyProjects\java\TEMP\COMP3095\thursday\microservice-parent\product-service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.roomservice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserServiceApplication (1)">
+    <configuration name="ProductServiceApplicationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":product-service:test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.productservice.ProductServiceApplicationTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="EventServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EventService.microservice-parent.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gbc.eventservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gbc.eventservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.gbc.eventservice.service.EventServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventServiceImplTest.testFacultyUserCanCreateEventWithAnySize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EventService.microservice-parent.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gbc.eventservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gbc.eventservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.gbc.eventservice.service.EventServiceImplTest" />
+      <option name="METHOD_NAME" value="testFacultyUserCanCreateEventWithAnySize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="microservice-parent" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="api-gateway.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApprovalServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ApprovalService.microservice-parent.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.approvalservice.ApprovalServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApprovalServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ApprovalService.microservice-parent.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.approvalservice.ApprovalServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="BookingService.microservice-parent.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.bookingservice.BookingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingServiceApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="BookingService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gbc.bookingservice.BookingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="BookingService.microservice-parent.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.bookingservice.BookingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="EventService.microservice-parent.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eventservice.EventServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventServiceApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="com.gbc.EventService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gbc.eventservice.EventServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="EventService.microservice-parent.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eventservice.EventServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="microservice-parent.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microserviceparent.MicroserviceParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="com.example.microservice-parent.product-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.productservice.ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="RoomService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.roomservice.RoomServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomServiceApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="RoomService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.roomservice.RoomServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.roomservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="RoomService.microservice-parent.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.roomservice.RoomServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="UserService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.userservice.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="UserService.microservice-parent.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.userservice.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.ProductServiceApplicationTests" />
+      <item itemvalue="JUnit.EventServiceImplTest" />
+      <item itemvalue="JUnit.EventServiceImplTest.testFacultyUserCanCreateEventWithAnySize" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.ApprovalServiceApplication (1)" />
+      <item itemvalue="Spring Boot.ApprovalServiceApplication" />
+      <item itemvalue="Spring Boot.BookingServiceApplication (1)" />
+      <item itemvalue="Spring Boot.BookingServiceApplication (2)" />
+      <item itemvalue="Spring Boot.BookingServiceApplication" />
+      <item itemvalue="Spring Boot.EventServiceApplication (1)" />
+      <item itemvalue="Spring Boot.EventServiceApplication (2)" />
+      <item itemvalue="Spring Boot.EventServiceApplication" />
+      <item itemvalue="Spring Boot.MicroserviceParentApplication" />
+      <item itemvalue="Spring Boot.ProductServiceApplication" />
+      <item itemvalue="Spring Boot.RoomServiceApplication (1)" />
+      <item itemvalue="Spring Boot.RoomServiceApplication (2)" />
+      <item itemvalue="Spring Boot.RoomServiceApplication" />
+      <item itemvalue="Spring Boot.UserServiceApplication (1)" />
+      <item itemvalue="Spring Boot.UserServiceApplication" />
+      <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RoomServiceApplication (2)" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Gradle.ProductServiceApplicationTests" />
+        <item itemvalue="JUnit.EventServiceImplTest" />
+        <item itemvalue="JUnit.EventServiceImplTest.testFacultyUserCanCreateEventWithAnySize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StandaloneScriptsStorage">
+    <option name="files">
+      <set>
+        <option value="$PROJECT_DIR$/ApprovalService/build.gradle.kts" />
+        <option value="$PROJECT_DIR$/BookingService/build.gradle.kts" />
+        <option value="$PROJECT_DIR$/EventService/build.gradle.kts" />
+        <option value="$PROJECT_DIR$/RoomService/build.gradle.kts" />
+        <option value="$PROJECT_DIR$/UserService/build.gradle.kts" />
+        <option value="$PROJECT_DIR$/build.gradle.kts" />
+        <option value="$PROJECT_DIR$/microservice-parent/build.gradle.kts" />
+        <option value="$PROJECT_DIR$/product-service/settings.gradle.kts" />
+        <option value="$PROJECT_DIR$/settings.gradle.kts" />
+      </set>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d8b0d4-b8cd-4a86-8f8e-d6ed544b7a9f" name="Changes" comment="" />
+      <created>1726546452780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726546452780</updated>
+      <workItem from="1726546453774" duration="2412000" />
+      <workItem from="1726550139160" duration="241000" />
+      <workItem from="1726550392067" duration="1368000" />
+      <workItem from="1726593147799" duration="10688000" />
+      <workItem from="1726852441518" duration="1278000" />
+      <workItem from="1727093874743" duration="8985000" />
+      <workItem from="1727353784337" duration="5908000" />
+      <workItem from="1727367258440" duration="3906000" />
+      <workItem from="1727371727887" duration="925000" />
+      <workItem from="1727375116442" duration="6069000" />
+      <workItem from="1727381335670" duration="907000" />
+      <workItem from="1727701048453" duration="3828000" />
+      <workItem from="1727712002444" duration="1340000" />
+      <workItem from="1728920400041" duration="155000" />
+      <workItem from="1729046244651" duration="1254000" />
+      <workItem from="1729048541025" duration="16050000" />
+      <workItem from="1729374029112" duration="16308000" />
+      <workItem from="1729655345439" duration="2405000" />
+      <workItem from="1729657808575" duration="1101000" />
+      <workItem from="1729658995914" duration="133000" />
+      <workItem from="1729659167033" duration="256000" />
+      <workItem from="1729709505446" duration="787000" />
+      <workItem from="1730038274064" duration="688000" />
+      <workItem from="1730210029470" duration="114000" />
+      <workItem from="1730210228788" duration="1830000" />
+      <workItem from="1730212859521" duration="21155000" />
+      <workItem from="1730376228692" duration="649000" />
+      <workItem from="1730468261532" duration="5195000" />
+      <workItem from="1730473700422" duration="13320000" />
+      <workItem from="1730514154871" duration="2620000" />
+      <workItem from="1730516919547" duration="1292000" />
+      <workItem from="1730518238687" duration="103000" />
+      <workItem from="1730518808944" duration="568000" />
+      <workItem from="1730519435425" duration="733000" />
+      <workItem from="1730524745222" duration="656000" />
+      <workItem from="1730525493879" duration="29133000" />
+      <workItem from="1730812674519" duration="57000" />
+      <workItem from="1730989122701" duration="7428000" />
+      <workItem from="1731073848869" duration="325000" />
+      <workItem from="1731074225675" duration="2277000" />
+      <workItem from="1731079844021" duration="1960000" />
+      <workItem from="1731126969824" duration="740000" />
+      <workItem from="1731127931552" duration="364000" />
+      <workItem from="1731133770797" duration="161000" />
+      <workItem from="1731134040800" duration="169000" />
+      <workItem from="1731136470766" duration="1225000" />
+      <workItem from="1731137922407" duration="11777000" />
+      <workItem from="1731149790951" duration="7393000" />
+      <workItem from="1731164339891" duration="11563000" />
+      <workItem from="1731178900746" duration="324000" />
+      <workItem from="1731195815354" duration="2737000" />
+      <workItem from="1731208032514" duration="2041000" />
+      <workItem from="1731210108409" duration="2323000" />
+      <workItem from="1731254767013" duration="2000" />
+      <workItem from="1731255810119" duration="9950000" />
+      <workItem from="1731281680912" duration="1235000" />
+      <workItem from="1731283332360" duration="6849000" />
+      <workItem from="1733346058266" duration="875000" />
+      <workItem from="1733348346083" duration="21260000" />
+      <workItem from="1733393455627" duration="201000" />
+      <workItem from="1733507959038" duration="11882000" />
+      <workItem from="1733532830211" duration="30000" />
+      <workItem from="1733541235403" duration="19000" />
+    </task>
+    <task id="LOCAL-00001" summary="COMP 3095 - First Commit">
+      <option name="closed" value="true" />
+      <created>1726549938742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726549938742</updated>
+    </task>
+    <task id="LOCAL-00002" summary="COMP 3095 - First Commit">
+      <option name="closed" value="true" />
+      <created>1726551137958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726551137958</updated>
+    </task>
+    <task id="LOCAL-00003" summary="COMP 3095 - Week 3 Day 2">
+      <option name="closed" value="true" />
+      <created>1726852640411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726852640411</updated>
+    </task>
+    <task id="LOCAL-00004" summary="COMP 3095 - ICE1">
+      <option name="closed" value="true" />
+      <created>1727380579298</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727380579298</updated>
+    </task>
+    <task id="LOCAL-00005" summary="COMP 3095 - ICE1">
+      <option name="closed" value="true" />
+      <created>1727382099984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727382099984</updated>
+    </task>
+    <task id="LOCAL-00006" summary="COMP 3095 - ICE1">
+      <option name="closed" value="true" />
+      <created>1727382129149</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727382129149</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="COMP 3095 - First Commit" />
+    <MESSAGE value="COMP 3095 - Week 3 Day 2" />
+    <MESSAGE value="COMP 3095 - ICE1" />
+    <MESSAGE value="COMP 3095 - Second Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMP 3095 - Second Push" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ApprovalService/src/test/java/com/example/approvalservice/ApprovalServiceApplicationTests.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservice-parent/product-service/src/test/java/com/example/productservice/ProductServiceApplicationTests.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RoomService/src/main/java/com/example/roomservice/RoomServiceApplication.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
