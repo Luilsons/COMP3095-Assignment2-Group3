@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+	 HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/GBC_EventBooking-Group3 v1.iml" filepath="$PROJECT_DIR$/.idea/GBC_EventBooking-Group3 v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApprovalService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ApprovalService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApprovalService.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ApprovalService.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BookingService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BookingService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EventService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EventService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EventService.test.iml" filepath="$PROJECT_DIR$/.idea/modules/EventService.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RoomService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RoomService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UserService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.gbc.EventService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.gbc.EventService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservice-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/microservice-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservice-parent.main.iml" filepath="$PROJECT_DIR$/.idea/modules/microservice-parent.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-service/microservice-parent.product-service.iml" filepath="$PROJECT_DIR$/.idea/modules/product-service/microservice-parent.product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-service/microservice-parent.product-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/product-service/microservice-parent.product-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservice-parent.test.iml" filepath="$PROJECT_DIR$/.idea/modules/microservice-parent.test.iml" />
+	e3682c28bf4b7c234dcb9435a2ffd68384b42e7c
     </modules>
   </component>
 </project>
