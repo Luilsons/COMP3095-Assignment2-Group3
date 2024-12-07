@@ -1,0 +1,46 @@
+{
+  "type": "record",
+  "name": "BookingEvent",
+  "namespace": "com.gbc.bookingservice.avro",
+  "fields": [
+    {
+      "name": "bookingId",
+      "type": "string",
+      "doc": "Unique ID for the booking"
+    },
+    {
+      "name": "userId",
+      "type": "string",
+      "doc": "ID of the user making the booking"
+    },
+    {
+      "name": "roomId",
+      "type": "string",
+      "doc": "ID of the room being booked"
+    },
+    {
+      "name": "startTime",
+      "type": {
+        "type": "long",
+        "logicalType": "timestamp-micros"
+      },
+      "doc": "Start time of the booking"
+    },
+    {
+      "name": "endTime",
+      "type": {
+        "type": "long",
+        "logicalType": "timestamp-micros"
+      },
+      "doc": "End time of the booking"
+    },
+    {
+      "name": "timestamp",
+      "type": {
+        "type": "long",
+        "logicalType": "timestamp-micros"
+      },
+      "doc": "Timestamp when the event was created"
+    }
+  ]
+}
