@@ -36,9 +36,12 @@ dependencies {
 	testImplementation("org.testcontainers:mongodb")
 	testImplementation("io.rest-assured:rest-assured")
 	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
+<<<<<<< HEAD
 
 	// Swagger Dependencies
 	implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.1.0")
+=======
+>>>>>>> add07d4a8f6b6320414aee6dc665958d4cbe0170
 }
 
 tasks.withType<Test> {
