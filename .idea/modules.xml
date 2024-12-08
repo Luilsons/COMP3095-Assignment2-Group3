@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApprovalService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ApprovalService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApprovalService.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ApprovalService.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EventService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EventService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EventService.test.iml" filepath="$PROJECT_DIR$/.idea/modules/EventService.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UserService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservice-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/microservice-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservice-parent.main.iml" filepath="$PROJECT_DIR$/.idea/modules/microservice-parent.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-service/microservice-parent.product-service.iml" filepath="$PROJECT_DIR$/.idea/modules/product-service/microservice-parent.product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-service/microservice-parent.product-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/product-service/microservice-parent.product-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservice-parent.test.iml" filepath="$PROJECT_DIR$/.idea/modules/microservice-parent.test.iml" />
+    </modules>
+  </component>
+</project>

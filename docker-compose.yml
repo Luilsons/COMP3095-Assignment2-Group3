@@ -1,0 +1,93 @@
+version: '3.8'
+services:
+  # room-service:
+    # image: room-service
+    # build:
+      # context: ./RoomService
+      # dockerfile: Dockerfile
+    # ports:
+      # - "8081:8081"
+    # environment:
+      # - SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/room_db
+      # - SPRING_DATASOURCE_USERNAME=admin
+      # - SPRING_DATASOURCE_PASSWORD=admin
+    # depends_on:
+     # - db
+
+  # booking-service:
+    # image: booking-service
+    # build:
+      # context: ./BookingService
+      # dockerfile: Dockerfile
+    # ports:
+      # - "8082:8082"
+    # environment:
+      # - SPRING_DATA_MONGODB_URI=mongodb://mongo:27017/booking_db
+    # depends_on:
+      # - mongo
+
+  user-service:
+    image: user-service
+    build:
+      context: ./UserService
+      dockerfile: Dockerfile
+    ports:
+      - "8083:8083"
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/user_db
+      - SPRING_DATASOURCE_USERNAME=admin
+      - SPRING_DATASOURCE_PASSWORD=admin
+    depends_on:
+      - db
+
+  # event-service:
+    # image: event-service
+    # build:
+      # context: ./EventService
+      # dockerfile: Dockerfile
+    # ports:
+      # - "8084:8084"
+    # environment:
+      # - SPRING_DATA_MONGODB_URI=mongodb://mongo:27017/event_db
+    # depends_on:
+      # - mongo
+
+  # product-service:
+    # image: product-service
+    # build:
+      # context: ./ProductService
+      # dockerfile: Dockerfile
+    #ports:
+     # - "8085:8085"
+    # environment:
+      # - SPRING_DATA_MONGODB_URI=mongodb://mongo:27017/product_db
+    # depends_on:
+      # - mongo
+
+  approval-service:
+    image: approval-service
+    build:
+      context: ./ApprovalService
+      dockerfile: Dockerfile
+    ports:
+      - "8086:8086"
+    environment:
+      - SPRING_DATA_MONGODB_URI=mongodb://mongo:27017/approval_db
+    depends_on:
+      - mongo
+
+  db:
+    image: postgres:13
+    container_name: postgres-db
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: room_db
+    ports:
+      - "5432:5432"
+
+  mongo:
+    image: mongo:4.4.6
+    container_name: mongo-db
+    ports:
+      - "27017:27017"
